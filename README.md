@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **React, Mongo, Bootstrap**
 
-- 📫 How to reach me **pabloleondeveloper20@gmail.com**
-                      **pabloleonprofissional@gmail.com**
+- 📫 How to reach me **pabloleondeveloper20@gmail.com** / **pabloleonprofissional@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
