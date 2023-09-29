@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pablo Leon</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React, Mongo, Bootstrap**
+- 🌱 I’m currently learning **Java,React**
 
-- 📫 How to reach me **pabloleondeveloper20@gmail.com** / **pabloleonprofissional@gmail.com**
+- 📫 How to reach me my social email: **pabloleondeveloper20@gmail.com** / My professional email: **pabloleonprofissional@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
