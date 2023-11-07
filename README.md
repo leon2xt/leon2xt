@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Java,React**
 
-- 📫 How to reach me my social email: **pabloleondeveloper20@gmail.com** / My professional email: **pabloleonprofissional@gmail.com**
+- 📫 How to reach me my **social email**: __pabloleondeveloper20@gmail.com__ / **My professional email**: __pabloleonprofissional@gmail.com__
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">**Connect with me:**</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pabloleonprofissional" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pabloleonprofissional" height="30" width="40" /></a>
 </p>
